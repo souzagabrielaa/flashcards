@@ -12,6 +12,10 @@ body{
 
 #container{
     display: flex; /*transforma em elemento flexível*/
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 4rem;
+    gap: 3rem;
 }
 
 .cartao{
