@@ -3,7 +3,7 @@
 :root {
     --text-color: #000000;
     --card-front-color: #b83b8e;
-    --card-back-color: #13051d;
+    --card-back-color: #ffffff;
 }
 body{
     background: url(img/bg-desktop.webp);
